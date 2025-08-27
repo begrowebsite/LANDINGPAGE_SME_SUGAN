@@ -11,7 +11,8 @@ body {
 
 /* Secret Section */
 .hero-about-section {
-    padding: 120px 20px;
+    padding: 120px 20px 30px 20px;  
+    /* top = 120px, right = 20px, bottom = 60px, left = 20px */
     color: #fff;
     position: relative;
     z-index: 1;
@@ -68,7 +69,8 @@ body {
 
 /* Client Section */
 .client-section {
-    padding: 100px 20px;
+    padding: 40px 20px 40px 20px; 
+    /* top = 50px, right = 20px, bottom = 100px, left = 20px */
 }
 
 /* Base card for image */
@@ -162,7 +164,7 @@ body {
 
 /* Services Section */
 .services-section {
-    padding: 100px 20px;
+     padding: 20px 20px 50px 20px; 
     background: linear-gradient(135deg, #400FF0#BFF00F);
     text-align: center;
     position: relative;
@@ -433,7 +435,7 @@ body {
 /* CTA Section */
 .cta-section {
     background: linear-gradient(135deg, #400FF0, #BFF00F);
-    padding: 80px 20px;
+     padding: 20px 20px 50px 20px; 
     text-align: center;
     color: white;
     position: relative;
